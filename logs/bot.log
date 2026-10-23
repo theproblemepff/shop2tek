@@ -1,0 +1,88 @@
+2026-10-23 02:45:15,567 INFO run: Base de données initialisée
+2026-10-23 02:45:15,567 WARNING discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-10-23 02:45:15,568 WARNING discord.client: davey is not installed, voice will NOT be supported
+2026-10-23 02:45:15,718 INFO run: Panel : http://127.0.0.1:8000
+2026-10-23 02:45:15,718 INFO discord.client: logging in using static token
+2026-10-23 02:45:16,306 INFO run: Arrêt propre terminé
+2026-10-23 02:45:29,819 INFO run: Base de données initialisée
+2026-10-23 02:45:29,820 WARNING discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-10-23 02:45:29,994 INFO run: Panel : http://127.0.0.1:8000
+2026-10-23 02:45:29,995 INFO discord.client: logging in using static token
+2026-10-23 02:45:30,694 INFO run: Arrêt propre terminé
+2026-10-23 02:48:52,873 INFO run: Base de données initialisée
+2026-10-23 02:48:52,874 WARNING discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-10-23 02:48:52,874 WARNING discord.client: davey is not installed, voice will NOT be supported
+2026-10-23 02:48:52,898 INFO run: Panel : http://127.0.0.1:8000
+2026-10-23 02:48:52,899 INFO discord.client: logging in using static token
+2026-10-23 02:48:53,260 INFO run: Arrêt propre terminé
+2026-10-23 02:49:00,836 INFO run: Base de données initialisée
+2026-10-23 02:49:00,837 WARNING discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-10-23 02:49:00,837 WARNING discord.client: davey is not installed, voice will NOT be supported
+2026-10-23 02:49:00,864 INFO run: Panel : http://127.0.0.1:8000
+2026-10-23 02:49:00,865 INFO discord.client: logging in using static token
+2026-10-23 02:49:01,230 INFO run: Arrêt propre terminé
+2026-10-23 02:49:12,394 INFO run: Base de données initialisée
+2026-10-23 02:49:12,395 WARNING discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-10-23 02:49:12,423 INFO run: Panel : http://127.0.0.1:8000
+2026-10-23 02:49:12,423 INFO discord.client: logging in using static token
+2026-10-23 02:49:12,898 INFO run: Arrêt propre terminé
+2026-10-23 02:50:37,827 INFO run: Base de données initialisée
+2026-10-23 02:50:37,828 WARNING discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-10-23 02:50:37,857 INFO run: Panel : http://127.0.0.1:8000
+2026-10-23 02:50:37,857 INFO discord.client: logging in using static token
+2026-10-23 02:50:38,070 ERROR run: 'bot' s'est arrêté sur une erreur : LoginFailure('Improper token has been passed.')
+2026-10-23 02:50:38,292 INFO run: Arrêt propre terminé
+2026-10-23 02:50:57,060 INFO run: Base de données initialisée
+2026-10-23 02:50:57,060 WARNING discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-10-23 02:50:57,060 WARNING discord.client: davey is not installed, voice will NOT be supported
+2026-10-23 02:50:57,084 INFO run: Panel : http://127.0.0.1:8000
+2026-10-23 02:50:57,085 INFO discord.client: logging in using static token
+2026-10-23 02:50:57,292 ERROR run: 'bot' s'est arrêté sur une erreur : LoginFailure('Improper token has been passed.')
+2026-10-23 02:50:57,437 INFO run: Arrêt propre terminé
+2026-10-23 02:51:12,416 INFO run: Base de données initialisée
+2026-10-23 02:51:12,416 WARNING discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-10-23 02:51:12,443 INFO run: Panel : http://127.0.0.1:8000
+2026-10-23 02:51:12,443 INFO discord.client: logging in using static token
+2026-10-23 02:51:12,670 ERROR run: 'bot' s'est arrêté sur une erreur : LoginFailure('Improper token has been passed.')
+2026-10-23 02:51:12,804 INFO run: Arrêt propre terminé
+2026-10-23 02:52:37,666 INFO run: Base de données initialisée
+2026-10-23 02:52:37,666 WARNING discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-10-23 02:52:37,666 WARNING discord.client: davey is not installed, voice will NOT be supported
+2026-10-23 02:52:37,691 INFO run: Panel : http://127.0.0.1:8000
+2026-10-23 02:52:37,691 INFO discord.client: logging in using static token
+2026-10-23 02:52:39,188 INFO discord.gateway: Shard ID None session has been invalidated.
+2026-10-23 02:52:44,906 INFO discord.gateway: Shard ID None session has been invalidated.
+2026-10-23 02:52:50,672 INFO discord.gateway: Shard ID None session has been invalidated.
+2026-10-23 02:52:56,386 INFO discord.gateway: Shard ID None session has been invalidated.
+2026-10-23 02:53:02,187 INFO discord.gateway: Shard ID None session has been invalidated.
+2026-10-23 02:53:07,997 INFO discord.gateway: Shard ID None session has been invalidated.
+2026-10-23 02:53:14,886 INFO discord.gateway: Shard ID None session has been invalidated.
+2026-10-23 02:53:20,616 INFO discord.gateway: Shard ID None session has been invalidated.
+2026-10-23 02:53:26,285 INFO discord.gateway: Shard ID None session has been invalidated.
+2026-10-23 02:55:37,527 INFO run: Base de données initialisée
+2026-10-23 02:55:37,528 WARNING discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-10-23 02:55:37,528 WARNING discord.client: davey is not installed, voice will NOT be supported
+2026-10-23 02:55:37,552 INFO run: Panel : http://127.0.0.1:8000
+2026-10-23 02:55:37,553 INFO discord.client: logging in using static token
+2026-10-23 02:55:38,992 INFO discord.gateway: Shard ID None has connected to Gateway (Session ID: 1a4ae152a212048a0803a7e22946709d).
+2026-10-23 02:55:41,014 INFO bot: Connecté en tant que helper#4987 (1 serveur(s))
+2026-10-23 02:59:32,017 INFO run: Base de données initialisée
+2026-10-23 02:59:32,018 WARNING discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-10-23 02:59:32,018 WARNING discord.client: davey is not installed, voice will NOT be supported
+2026-10-23 02:59:32,042 INFO run: Panel : http://127.0.0.1:8000
+2026-10-23 02:59:32,042 INFO discord.client: logging in using static token
+2026-10-23 02:59:33,490 INFO discord.gateway: Shard ID None has connected to Gateway (Session ID: cd8ef850e58d1dbff209dbbd686071c8).
+2026-10-23 02:59:35,493 INFO bot: Connecté en tant que helper#4987 (1 serveur(s))
+2026-10-23 03:12:53,613 INFO run: Base de données initialisée
+2026-10-23 03:12:53,613 WARNING discord.client: PyNaCl is not installed, voice will NOT be supported
+2026-10-23 03:12:53,614 WARNING discord.client: davey is not installed, voice will NOT be supported
+2026-10-23 03:12:53,644 INFO run: Panel : http://127.0.0.1:8000
+2026-10-23 03:12:53,644 INFO discord.client: logging in using static token
+2026-10-23 03:12:54,872 INFO discord.gateway: Shard ID None has connected to Gateway (Session ID: 56b6baac4b079c722b22f6075d19345f).
+2026-10-23 03:12:56,892 INFO bot: Connecté en tant que helper#4987 (1 serveur(s))
+2026-10-23 03:18:33,277 INFO bot: [verification] actor=None target=1010483834007081051 result=ok button
+2026-10-23 03:19:02,092 INFO bot: [lock] actor=1010483834007081051 target=1010483834007081051 result=ok #arrivée
+2026-10-23 03:19:10,845 INFO bot: [lock] actor=1010483834007081051 target=1010483834007081051 result=ok #depart
+2026-10-23 03:19:18,965 INFO bot: [lock] actor=1010483834007081051 target=1010483834007081051 result=ok #verif
+2026-10-23 03:20:06,054 INFO bot: [slowmode] actor=1010483834007081051 target=1010483834007081051 result=ok 15s dans #general
+2026-10-23 03:20:14,227 INFO bot: [lock] actor=1010483834007081051 target=1010483834007081051 result=ok #general
